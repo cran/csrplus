@@ -1,0 +1,10 @@
+b4a4b7eb1908ac7fc680260d7cb3f90c *DESCRIPTION
+4d5896da0c050d2e1c27d5c5db566b13 *NAMESPACE
+fa7eb3703ce144248736f88a8836fb8d *R/csrplus.R
+0bdd7f344c26254a52790b22ea49ad2e *data/boundary.rda
+29f14c1354485365bedff18f387dc70d *data/quake.rda
+dd3b6586d1724af8192a69220940024d *man/boundary.Rd
+6b81ef360ad917a7575f3122fc8cb8ce *man/csrplus-package.Rd
+1a60ee6079ca529966a9e7cfbe0b516b *man/mwin.Rd
+ff5beb4386c33249c40f5b19c47982d4 *man/pielou.Rd
+a1b50cae28dc2a5affb60d5c38755b2f *man/quake.Rd
